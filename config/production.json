@@ -1,5 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://baradgeo:System_097@cluster0.pjd02.mongodb.net/fakeornottest?retryWrites=true&w=majority",
-  "jwtSecret": "BaradGeo",
-  "githubToken": "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"
-}
